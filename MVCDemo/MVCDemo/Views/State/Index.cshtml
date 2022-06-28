@@ -1,0 +1,18 @@
+﻿@model IEnumerable<MVCDemo.Models.State>
+
+@using MVCDemo.Models;
+
+@{
+    ViewBag.Title = "State List";
+}
+
+<div style="font-family:Arial">
+    <h2>State List</h2>
+    <ul>
+        @foreach(State state in Model)
+        {
+            @Html.ActionLink(state.State_name, "Details", new { id = state.State_id })
+        }
+    </ul>
+</div>
+

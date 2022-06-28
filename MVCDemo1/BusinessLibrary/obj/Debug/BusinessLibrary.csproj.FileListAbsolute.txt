@@ -1,0 +1,6 @@
+D:\Personal\DotNetMVCPractice\MVCDemo1\BusinessLibrary\bin\Debug\BusinessLibrary.dll
+D:\Personal\DotNetMVCPractice\MVCDemo1\BusinessLibrary\bin\Debug\BusinessLibrary.pdb
+D:\Personal\DotNetMVCPractice\MVCDemo1\BusinessLibrary\obj\Debug\BusinessLibrary.csprojAssemblyReference.cache
+D:\Personal\DotNetMVCPractice\MVCDemo1\BusinessLibrary\obj\Debug\BusinessLibrary.csproj.CoreCompileInputs.cache
+D:\Personal\DotNetMVCPractice\MVCDemo1\BusinessLibrary\obj\Debug\BusinessLibrary.dll
+D:\Personal\DotNetMVCPractice\MVCDemo1\BusinessLibrary\obj\Debug\BusinessLibrary.pdb

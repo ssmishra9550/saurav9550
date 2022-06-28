@@ -1,0 +1,23 @@
+﻿@model MVCDemo.Models.State
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>State Details</h2>
+
+<table style="font-family:Arial">
+    <tr>
+        <td><b>StateId : </b></td>
+        <td><b>@Model.State_id</b></td>
+    </tr>
+    <tr>
+        <td><b>StateName : </b></td>
+        <td><b>@Model.State_name</b></td>
+    </tr>
+    <tr>
+        <td><b>StateCode : </b></td>
+        <td><b>@Model.StateCode</b></td>
+    </tr>
+</table>
+@Html.ActionLink("Back to List","Index")
