@@ -1,0 +1,12 @@
+D:\Personal\DotNetMVCPractice\saurav9550\MyShop\MyShop.DataAccess.SQL\bin\Debug\MyShop.DataAccess.SQL.dll
+D:\Personal\DotNetMVCPractice\saurav9550\MyShop\MyShop.DataAccess.SQL\bin\Debug\MyShop.DataAccess.SQL.pdb
+D:\Personal\DotNetMVCPractice\saurav9550\MyShop\MyShop.DataAccess.SQL\obj\Debug\MyShop.DataAccess.SQL.csprojAssemblyReference.cache
+D:\Personal\DotNetMVCPractice\saurav9550\MyShop\MyShop.DataAccess.SQL\obj\Debug\MyShop.DataAccess.SQL.csproj.CoreCompileInputs.cache
+D:\Personal\DotNetMVCPractice\saurav9550\MyShop\MyShop.DataAccess.SQL\obj\Debug\MyShop.DataAccess.SQL.dll
+D:\Personal\DotNetMVCPractice\saurav9550\MyShop\MyShop.DataAccess.SQL\obj\Debug\MyShop.DataAccess.SQL.pdb
+C:\MVCPractice\saurav9550\MVCProject-saurav.mishra\MyShop.DataAccess.SQL\bin\Debug\MyShop.DataAccess.SQL.dll
+C:\MVCPractice\saurav9550\MVCProject-saurav.mishra\MyShop.DataAccess.SQL\bin\Debug\MyShop.DataAccess.SQL.pdb
+C:\MVCPractice\saurav9550\MVCProject-saurav.mishra\MyShop.DataAccess.SQL\obj\Debug\MyShop.DataAccess.SQL.csproj.AssemblyReference.cache
+C:\MVCPractice\saurav9550\MVCProject-saurav.mishra\MyShop.DataAccess.SQL\obj\Debug\MyShop.DataAccess.SQL.csproj.CoreCompileInputs.cache
+C:\MVCPractice\saurav9550\MVCProject-saurav.mishra\MyShop.DataAccess.SQL\obj\Debug\MyShop.DataAccess.SQL.dll
+C:\MVCPractice\saurav9550\MVCProject-saurav.mishra\MyShop.DataAccess.SQL\obj\Debug\MyShop.DataAccess.SQL.pdb

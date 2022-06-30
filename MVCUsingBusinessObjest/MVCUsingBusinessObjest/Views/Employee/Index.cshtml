@@ -26,7 +26,10 @@
         <th></th>
     </tr>
 
-@foreach (var item in Model) {
+@foreach (var item in Model)
+{
+    using (@Html.BeginForm("Delete", "Employee", new { id = item.Id }))
+    {
     <tr>
         <td>
             @Html.DisplayFor(modelItem => item.EmployeeName)
@@ -41,11 +44,11 @@
             @Html.DisplayFor(modelItem => item.DepartmentId)
         </td>
         <td>
-            @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
-            @Html.ActionLink("Details", "Details", new { id=item.Id }) |
-            @Html.ActionLink("Delete", "Delete", new { id=item.Id })
-        </td>
+            @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+            <input type="submit" value="Delete" onclick="return confirm('Are you sure')" />
+         </td>
     </tr>
+    }
 }
 
 </table>

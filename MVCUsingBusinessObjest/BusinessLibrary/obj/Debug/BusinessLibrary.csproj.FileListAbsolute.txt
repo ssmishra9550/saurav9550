@@ -10,3 +10,15 @@ D:\Personal\DotNetMVCPractice\MVCUsingBusinessObjest\BusinessLibrary\bin\Debug\E
 D:\Personal\DotNetMVCPractice\MVCUsingBusinessObjest\BusinessLibrary\bin\Debug\EntityFramework.xml
 D:\Personal\DotNetMVCPractice\MVCUsingBusinessObjest\BusinessLibrary\bin\Debug\EntityFramework.SqlServer.xml
 D:\Personal\DotNetMVCPractice\MVCUsingBusinessObjest\BusinessLibrary\obj\Debug\BusinessLibrary.csproj.CopyComplete
+C:\MVCPractice\saurav9550\MVCUsingBusinessObjest\BusinessLibrary\bin\Debug\BusinessLibrary.dll.config
+C:\MVCPractice\saurav9550\MVCUsingBusinessObjest\BusinessLibrary\bin\Debug\BusinessLibrary.dll
+C:\MVCPractice\saurav9550\MVCUsingBusinessObjest\BusinessLibrary\bin\Debug\BusinessLibrary.pdb
+C:\MVCPractice\saurav9550\MVCUsingBusinessObjest\BusinessLibrary\bin\Debug\EntityFramework.dll
+C:\MVCPractice\saurav9550\MVCUsingBusinessObjest\BusinessLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\MVCPractice\saurav9550\MVCUsingBusinessObjest\BusinessLibrary\bin\Debug\EntityFramework.xml
+C:\MVCPractice\saurav9550\MVCUsingBusinessObjest\BusinessLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\MVCPractice\saurav9550\MVCUsingBusinessObjest\BusinessLibrary\obj\Debug\BusinessLibrary.csproj.AssemblyReference.cache
+C:\MVCPractice\saurav9550\MVCUsingBusinessObjest\BusinessLibrary\obj\Debug\BusinessLibrary.csproj.CoreCompileInputs.cache
+C:\MVCPractice\saurav9550\MVCUsingBusinessObjest\BusinessLibrary\obj\Debug\BusinessLibrary.csproj.CopyComplete
+C:\MVCPractice\saurav9550\MVCUsingBusinessObjest\BusinessLibrary\obj\Debug\BusinessLibrary.dll
+C:\MVCPractice\saurav9550\MVCUsingBusinessObjest\BusinessLibrary\obj\Debug\BusinessLibrary.pdb

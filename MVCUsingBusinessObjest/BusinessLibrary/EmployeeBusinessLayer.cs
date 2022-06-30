@@ -110,5 +110,23 @@ namespace BusinessLibrary
                 cmd.ExecuteNonQuery();
             }
         }
+
+        public void DeleteEmployee (int id)
+        {
+            string connectionString = ConfigurationManager.ConnectionStrings["EmployeeContext"].ConnectionString;
+            using (SqlConnection con = new SqlConnection(connectionString))
+            {
+                SqlCommand cmd = new SqlCommand("spDeleteEmployee", con);
+                cmd.CommandType = CommandType.StoredProcedure;
+
+                SqlParameter paramId = new SqlParameter();
+                paramId.ParameterName = "@Id";
+                paramId.Value = id;
+                cmd.Parameters.Add(paramId);
+
+                con.Open();
+                cmd.ExecuteReader();
+            }
+        }
     }
 }

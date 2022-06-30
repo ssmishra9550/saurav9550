@@ -1,0 +1,12 @@
+D:\Personal\DotNetMVCPractice\saurav9550\MyShop\MyShop.Services\bin\Debug\MyShop.Services.dll
+D:\Personal\DotNetMVCPractice\saurav9550\MyShop\MyShop.Services\bin\Debug\MyShop.Services.pdb
+D:\Personal\DotNetMVCPractice\saurav9550\MyShop\MyShop.Services\obj\Debug\MyShop.Services.csprojAssemblyReference.cache
+D:\Personal\DotNetMVCPractice\saurav9550\MyShop\MyShop.Services\obj\Debug\MyShop.Services.csproj.CoreCompileInputs.cache
+D:\Personal\DotNetMVCPractice\saurav9550\MyShop\MyShop.Services\obj\Debug\MyShop.Services.dll
+D:\Personal\DotNetMVCPractice\saurav9550\MyShop\MyShop.Services\obj\Debug\MyShop.Services.pdb
+C:\MVCPractice\saurav9550\MVCProject-saurav.mishra\MyShop.Services\bin\Debug\MyShop.Services.dll
+C:\MVCPractice\saurav9550\MVCProject-saurav.mishra\MyShop.Services\bin\Debug\MyShop.Services.pdb
+C:\MVCPractice\saurav9550\MVCProject-saurav.mishra\MyShop.Services\obj\Debug\MyShop.Services.csproj.AssemblyReference.cache
+C:\MVCPractice\saurav9550\MVCProject-saurav.mishra\MyShop.Services\obj\Debug\MyShop.Services.csproj.CoreCompileInputs.cache
+C:\MVCPractice\saurav9550\MVCProject-saurav.mishra\MyShop.Services\obj\Debug\MyShop.Services.dll
+C:\MVCPractice\saurav9550\MVCProject-saurav.mishra\MyShop.Services\obj\Debug\MyShop.Services.pdb

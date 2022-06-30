@@ -142,6 +142,14 @@ namespace MVCUsingBusinessObjest.Controllers
             }
             return View();
         }
+        [HttpPost]
+        public ActionResult Delete(int Id)
+        {
+            EmployeeBusinessLayer employeeBusinessLayer = new EmployeeBusinessLayer();
+            employeeBusinessLayer.DeleteEmployee(Id);
+            return RedirectToAction("Index");
+        }
+        
     }
 
 }
